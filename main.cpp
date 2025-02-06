@@ -1,4 +1,4 @@
-#include "Lista.hpp"
+#include "list.hpp"
 
 int main() {
     LISTASIMPLE lista;
